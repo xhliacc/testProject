@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-leaning.iml" filepath="$PROJECT_DIR$/spring-boot-leaning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-properties/spring-boot-properties.iml" filepath="$PROJECT_DIR$/spring-boot-properties/spring-boot-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-properties/springboot-properties.iml" filepath="$PROJECT_DIR$/springboot-properties/springboot-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-restful/springboot-restful.iml" filepath="$PROJECT_DIR$/springboot-restful/springboot-restful.iml" />
+    </modules>
+  </component>
+</project>
